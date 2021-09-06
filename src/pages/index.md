@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: Välkomen till Bither
+    title: Välkommen till din lokala IT -partner
     content: >
       Vi tar hand om din IT -sida. Vi arbetar nära dig, ditt team för att
       leverera inspirerande arbete, vilket gör att din organisation kan växa.
