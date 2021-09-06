@@ -9,14 +9,6 @@ sections:
       Vi tar hand om din IT -sida. Vi arbetar nära dig, ditt team för att
       leverera inspirerande arbete, vilket gör att din organisation kan växa.
       [Let's talk](/contact/).
-  - type: portfolio_section
-    section_id: latest-projects
-    layout_style: tiles
-    title: Recent Work
-    subtitle: Explore case studies
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
   - type: grid_section
     section_id: clients
     title: Clients
