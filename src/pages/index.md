@@ -86,8 +86,8 @@ sections:
 seo:
   title: Award Winning Agency Based in San Francisco
   description: >-
-    We are a brand and design practice. We work closely with you, your team to
-    deliver inspiring work, which enables your organization to grow.
+    Vi tar hand om din IT -sida. Vi arbetar nära dig, ditt team för att leverera
+    inspirerande arbete, vilket gör att din organisation kan växa.
   extra:
     - name: 'og:type'
       value: website
