@@ -17,14 +17,12 @@ sections:
     grid_items:
       - title: Behöver du teknisk support för ditt företag?
         image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: |
+          *   Hårdvara och nätverk
+
+          *   Programvaruintegration
+
+          *   SEO och webbutveckling
       - title: Brand design
         image: images/service-2.svg
         content: |-
