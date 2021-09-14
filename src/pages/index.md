@@ -31,7 +31,7 @@ sections:
           *   Skräddarsydda e -handelssystem för dina behov
           *   SEO och alla inkluderade paket
           *   Eller om du behöver några e -handelskonsulatörer i din verksamhet
-      - title: Anlita en IT -experter
+      - title: Anlita en IT -expert
         image: images/service-3.svg
         content: >
           *   Vi har IT -team som är redo att gå med ditt projekt med 100
