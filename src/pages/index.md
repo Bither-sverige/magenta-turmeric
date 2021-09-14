@@ -15,7 +15,7 @@ sections:
     subtitle: What we do
     col_number: three
     grid_items:
-      - title: 'Y'
+      - title: Behöver du teknisk support för ditt företag?
         image: images/service-1.svg
         content: |-
           - Research and insight
