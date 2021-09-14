@@ -31,7 +31,7 @@ sections:
           *   Skräddarsydda e -handelssystem för dina behov
           *   SEO och alla inkluderade paket
           *   Eller om du behöver några e -handelskonsulatörer i din verksamhet
-      - title: Experience design
+      - title: Anlita en IT -experter
         image: images/service-3.svg
         content: |-
           - Digital product design
