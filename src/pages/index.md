@@ -33,15 +33,13 @@ sections:
           *   Eller om du behöver några e -handelskonsulatörer i din verksamhet
       - title: Anlita en IT -experter
         image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+        content: >
+          *   Vi har IT -team som är redo att gå med ditt projekt med 100
+          garantier i din arbetsglädje.
+
+          *   Vi har olika kunskapsnivå IT -proffs som arbetar med oss
+
+          *   Ring oss bara och minska din IT -kostnad till hälften
   - type: cta_section
     section_id: cta
     title: Let’s Work Together!
