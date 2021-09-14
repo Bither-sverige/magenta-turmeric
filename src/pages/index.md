@@ -25,14 +25,12 @@ sections:
           *   SEO och webbutveckling
       - title: E -handel
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Vi hjälper dig att välja en plattform
+          *   Vi har olika slags lösningar
+          *   Skräddarsydda e -handelssystem för dina behov
+          *   SEO och alla inkluderade paket
+          *   Eller om du behöver några e -handelskonsulatörer i din verksamhet
       - title: Experience design
         image: images/service-3.svg
         content: |-
