@@ -23,7 +23,7 @@ sections:
           *   Programvaruintegration
 
           *   SEO och webbutveckling
-      - title: Brand design
+      - title: E -handel
         image: images/service-2.svg
         content: |-
           - Brand development
